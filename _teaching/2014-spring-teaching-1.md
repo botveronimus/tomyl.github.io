@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "LING 201: The Study of Language"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2024-fall-teaching-1
+venue: "University of Georgia, Department of Linguistics"
+date: 2024-01-01
+location: "Athens, GA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This was an intro-level linguistics class that I taught at UGA as an instructor of record. I was responsible for designing my own syllabus, lecturing, grading, and doing student office hours.
